@@ -1,0 +1,17 @@
+# Secrets
+.env
+.env.*
+config.local.php
+secrets.php
+
+# Runtime data
+cache/*
+!cache/.gitkeep
+logs/*
+!logs/.gitkeep
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
